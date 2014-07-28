@@ -3,7 +3,7 @@
   "description": "A pattern to display application errors to the user",
   "homepage": "https://github.com/shioju/meteor-errors",
   "author": "Shioju <shioju12@gmail.com>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/shioju/meteor-errors.git",
   "packages": {
   }
