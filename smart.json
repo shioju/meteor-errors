@@ -1,5 +1,5 @@
 {
-  "name": "errors",
+  "name": "shioju-errors",
   "description": "A pattern to display application errors to the user",
   "homepage": "https://github.com/shioju/meteor-errors",
   "author": "Shioju <shioju12@gmail.com>",
